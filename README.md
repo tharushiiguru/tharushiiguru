@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tharushi_guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharushi_guru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tharushi guruge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharushi guruge" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tharushi-guruge-a84117227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharushi guruge" height="30" width="40" /></a>
 <a href="https://fb.com/tharushi guruge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharushi guruge" height="30" width="40" /></a>
 <a href="https://instagram.com/thaashh_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thaashh_00" height="30" width="40" /></a>
 <a href="https://dribbble.com/thargu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="thargu" height="30" width="40" /></a>
